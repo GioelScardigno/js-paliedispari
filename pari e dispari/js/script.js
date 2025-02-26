@@ -1,7 +1,8 @@
+// l'utente sceglie pari o dispari tramite un prompt
 // l'utente sceglie un numero da 1 a 6 tramite un prompt
 // il computer genera un numero casuale da 1 a 6
 // una funzione somma i due numeri
-// il risultato sarà o pari o dispari, quindi la vittoria dipenderà da che tipo di numero l'utente ha scelto
+// il risultato sarà o pari o dispari, quindi la vittoria dipenderà dalla scelta dell'utente di pari o dispari e il risultato finale
 
 const oddOrOeven = prompt("pari o dispari?")
 const userNumber = prompt("inserisci un numero a 1 a 6")
